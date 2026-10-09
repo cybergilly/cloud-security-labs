@@ -1,3 +1,5 @@
+Attributed learning material. The labs here were written by Ashley Pearce. I'm working through them as study material. This is not my original work. Any changes I make will be noted as mine.
+
 # Cloud Security Engineering Labs
 
 Hands-on labs I built to practice cloud security engineering end to end: writing controls as code, proving they work, and capturing evidence an assessor could use.
